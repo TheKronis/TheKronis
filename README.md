@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @TheKronis
-- 👀 I’m interested in Programming and Minecraft Animations
-- 🌱 I’m currently learning Blender and Python
+- 👀 I’m interested in Front end
