@@ -1,3 +1,9 @@
+
+<script src="https://unpkg.com/magic-snowflakes/dist/snowflakes.min.js"></script>
+<script>
+    var sf = new Snowflakes();
+</script>
+
 <h3 align="center">A passionate developer</h3>
 
 <h3 align="left">Connect with me:</h3>
